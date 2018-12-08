@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------------
 
 # set the path of where the input files are
-mywd = "C:/Users/Nick Morris/Desktop/Solution-Clusters"
+mywd = "C:/ ... /Solution-Clusters"
 
 # open up a graphics window
 windows()
